@@ -5,7 +5,7 @@ baseurl: /jkan
 logo: /img/jkan.png
 
 # Site theme
-jkan_theme: Materia
+jkan_theme: Paper
 
 # Authentication
 github_client_id: 
